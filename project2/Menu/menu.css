@@ -1,0 +1,31 @@
+
+body{
+    margin: 0;
+    padding: 0;
+}
+.btn-white{
+    color: white;
+    border: 1px solid black;
+    border-radius: 15px;
+}
+.left-nav div a{
+    font-weight: bold;
+}
+.fa-location-dot{
+    font-size: 20px;
+}
+
+.header{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    margin: 0;
+    padding: 0;
+}
+
+.img-card-menu{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+.categorys{
+    margin-left: 50px;
+}
